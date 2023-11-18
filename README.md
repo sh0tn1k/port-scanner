@@ -17,7 +17,7 @@ This repository contains a simple Python script for port scanning. The script us
 **Script Usage**
 
 ```
-python3 port-scanner.py
+python3 main.py
 ```
 
 **Possible Problems**
